@@ -6,7 +6,7 @@
       "@trufflesuite/web3-provider-engine": "^15.0.13-1",
       "ethereumjs-wallet": "^1.0.1",
       "dotenv": "^8.2.0",
-      "truffle": "^5.1.66",
+      "truffle": "^5.11.5",
       "solc": "^0.7.6"
     }
   }
